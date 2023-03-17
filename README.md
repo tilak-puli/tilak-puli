@@ -4,7 +4,7 @@ I am a passionate full-stack developer. I learn and work on everything that's ex
 
 ### About me
 * Senior Engineer at [Thoughtworks](https://www.thoughtworks.com/) 
-* Majorly works with Javascript/Typescript but have worked with lots of languagues like Ruby, Kotlin, Java, Dart etc
+* Majorly works with Javascript/Typescript but have worked with lots of languagues like Ruby, Kotlin, Java, Go etc
 * Currently working on [Mosip](https://www.mosip.io)'s App to transfer identity over BLE between Android and IOS (Exciting work on latest tech).
 
 
