@@ -1,5 +1,3 @@
-![Profile Views](https://hit.yhype.me/github/profile?user_id=34330361)
-
 ## Hi there 👋
 
 I am a passionate full-stack developer. I learn and work on everything that's exciting.
