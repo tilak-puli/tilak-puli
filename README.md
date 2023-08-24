@@ -4,8 +4,8 @@ I am a passionate full-stack developer. I learn and work on everything that's ex
 
 ### About me
 * Senior Engineer at [Thoughtworks](https://www.thoughtworks.com/) 
-* Majorly works with Javascript/Typescript but have worked with lots of languagues like Ruby, Kotlin, Java, Go etc
-* Currently working on [Mosip](https://www.mosip.io)'s App to transfer identity over BLE between Android and IOS (Exciting work on latest tech).
+* Majorly works with Javascript/Typescript but has worked with lots of languages like Ruby, Kotlin, Java, Go, etc
+* Currently working with [Mosip](https://www.mosip.io) for building Inji(an modular, open source, and secure wallet app on react native).
 
 
 <code><img height="20" title="javascript" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
